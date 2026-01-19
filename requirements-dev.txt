@@ -1,0 +1,6 @@
+python-dotenv
+delta-spark
+ib_async
+pandas
+spark
+torch

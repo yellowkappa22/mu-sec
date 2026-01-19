@@ -1,0 +1,6 @@
+IBKR Historical Data Request 
+    Limitations
+        https://interactivebrokers.github.io/tws-api/historical_limitations.html
+
+    Request
+        https://interactivebrokers.github.io/tws-api/historical_bars.html
